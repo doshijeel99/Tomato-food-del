@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = "http://localhost:4000"
+  const url = "https://tomato-food-del-backend-fbv6.onrender.com"
 
   return (
     <div>
